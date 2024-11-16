@@ -1,13 +1,13 @@
 **GRAPH IMPLEMEMNTATIONS IN PYTHON:**
-This repository demonstates various graphs representations and operations implemented using matrices in python
-The types of graphs included are:
+- This repository demonstates various graphs representations and operations implemented using matrices in python
+- The types of graphs included are:
 1. Undirected Graph
 2. Directed Graph
 3. Cycle Graph
 4. Acyclic Graph
 5. Weighted Graph
 
-**#FEATURES:**
+**FEATURES:**
 1. Undirected Graph
 -Stores an undirected graph using an adjacency matrix.
 -Allows adding edges and vertex data.
@@ -29,16 +29,16 @@ The types of graphs included are:
 -Prints the graph structure, including weights.
 
 **HOW TO RUN:**
-1. Clone the repository or copy the code into a Python file.
-2. Install Python 3 if you don’t have it already.
-3. Execute this script:
+- Clone the repository or copy the code into a Python file.
+- Install Python 3 if you don’t have it already.
+- Execute this script:
    - python graph.py
 
 **CONCEPTS COVERED:**
-1. Graph Representation
-2. Adjacency Matrix
-3. Graph Traversal
-4. Depth First Search (DFS)
-5. Weighted Graphs
-6. Cyclic and Acyclic Graphs
-7. Undirected and Directed Graphs
+- Graph Representation
+-  Adjacency Matrix
+- Graph Traversal
+- Depth First Search (DFS)
+- Weighted Graphs
+- Cyclic and Acyclic Graphs
+- Undirected and Directed Graphs
